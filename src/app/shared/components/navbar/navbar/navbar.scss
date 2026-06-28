@@ -1,0 +1,22 @@
+.img-logo {
+  width: 55px;
+  height: auto;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+
+  background: linear-gradient(90deg, #2d7ff9 0%, #22c55e 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+
+  margin-top: 2px;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
